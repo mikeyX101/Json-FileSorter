@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "Generate Sort": {
+      "commandName": "Project",
+      "commandLineArgs": "generate"
+    },
+    "Sort": {
+      "commandName": "Project",
+      "commandLineArgs": "sort"
+    },
+    "Help Message": {
+      "commandName": "Project"
+    }
+  }
+}
